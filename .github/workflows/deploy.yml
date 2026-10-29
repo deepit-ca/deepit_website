@@ -3,7 +3,7 @@ name: Deploy Website to Canadian Host
 on:
   push:
     branches:
-      - main # Change to master if your default branch is master
+      - origin 
 
 jobs:
   web-deploy:
