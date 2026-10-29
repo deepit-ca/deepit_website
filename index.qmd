@@ -1,6 +1,6 @@
 ---
 title: "Deepit Bhatia"
-image: profile.jpg # Put a photo of yourself in your project folder named profile.jpg
+image: profile.jpg # Photo of myself
 about:
   template: trestles
   links:
