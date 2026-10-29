@@ -14,7 +14,7 @@ website:
         text: CV
     right:
       - icon: github
-        href: https://github.com/YOUR_GITHUB
+        href: https://github.com/deepit-ca
       - icon: envelope
         href: mailto:deepit.bhatia@gmail.com
 
