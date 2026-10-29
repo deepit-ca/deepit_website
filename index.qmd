@@ -1,0 +1,25 @@
+---
+title: "Deepit Bhatia"
+image: profile.jpg # Put a photo of yourself in your project folder named profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=pqntRm4AAAAJ
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-8168-6873
+    - icon: github
+      text: GitHub
+      href: https://github.com/YOUR_GITHUB
+---
+
+## About Me
+I am an infectious disease epidemiologist focused on bridging the gaps between theoretical and applied epidemiology. My research explores how disease elimination can be achieved through vaccination in human and livestock diseases. I am a recent PhD graduate in Biology at the Center for Infectious Disease Dynamics at Penn State University.
+
+## Education
+**The Pennsylvania State University** | PhD in Biology | 2021 – 2026
+
+**University of Toronto** | MPH in Epidemiology | 2013 – 2015
+
+**McGill University** | BSc (Hons.) in Environment | 2009 – 2013

@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Deepit Bhatia"
+  site-url: "https://www.deepitbhatia.ca"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/YOUR_GITHUB
+      - icon: envelope
+        href: mailto:deepit.bhatia@gmail.com
+
+format:
+  html:
+    theme: litera
+    toc: true
