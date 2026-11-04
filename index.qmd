@@ -15,7 +15,7 @@ about:
 ---
 
 ## About Me
-I am an infectious disease epidemiologist focused on bridging the gaps between theoretical and applied epidemiology. My research explores how disease elimination can be achieved through vaccination in human and livestock diseases. I am a recent PhD graduate in Biology at the Center for Infectious Disease Dynamics at Penn State University.
+I am an infectious disease epidemiologist focused on bridging the gaps between theoretical and applied epidemiology. I am interested in understanding how the dynamics and control of infectious diseases can be evaluated and optimized using imperfect real-world data, through statistical and mathematical modelling. I am a recent PhD graduate in Biology at the Center for Infectious Disease Dynamics at Penn State University.
 
 ## Education
 **The Pennsylvania State University** | PhD in Biology | 2021 – 2026
